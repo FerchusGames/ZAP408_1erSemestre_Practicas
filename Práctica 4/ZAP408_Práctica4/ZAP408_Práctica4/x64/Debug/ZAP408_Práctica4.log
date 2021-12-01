@@ -1,0 +1,12 @@
+﻿  Main.cpp
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(64,15): warning C4244: 'argument': conversion from 'float' to 'std::streamsize', possible loss of data
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(64,1): warning C4056: overflow in floating-point constant arithmetic
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(86,15): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(86,1): warning C4056: overflow in floating-point constant arithmetic
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): message : this argument is used as a buffer size
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(74,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(74,10): message : this argument is used as a buffer size
+  ZAP408_Práctica4.vcxproj -> E:\Documents\Amerike\1er Semestre\Programacion\Prácticas\Práctica 4\ZAP408_Práctica4\x64\Debug\ZAP408_Práctica4.exe

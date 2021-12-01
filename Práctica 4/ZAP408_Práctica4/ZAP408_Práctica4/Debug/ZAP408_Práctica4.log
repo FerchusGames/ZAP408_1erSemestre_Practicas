@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(64,15): warning C4244: 'argument': conversion from 'float' to 'std::streamsize', possible loss of data
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(64,1): warning C4056: overflow in floating-point constant arithmetic
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(86,15): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\CinCout.h(86,1): warning C4056: overflow in floating-point constant arithmetic
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\super\source\repos\ZAP408_Práctica4\ZAP408_Práctica4\Main.cpp(70,10): message : this argument is used as a buffer size
+  ZAP408_Práctica4.vcxproj -> C:\Users\super\source\repos\ZAP408_Práctica4\Debug\ZAP408_Práctica4.exe
